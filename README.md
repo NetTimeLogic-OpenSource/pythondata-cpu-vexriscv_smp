@@ -32,7 +32,7 @@ with open(data_file(my_data_file)) as f:
 
 
 
-The data files are generated from https://github.com/SpinalHDL/VexRISCV.git and place in the directory
+The data files are generated from https://github.com/kevin-schaerer/VexRISCV.git and place in the directory
 [pythondata_cpu_vexriscv/verilog](pythondata_cpu_vexriscv/verilog).
 
 ## Custom VexRiscv modifications
